@@ -19,7 +19,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
  
 </div>
 ### :fire: My Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaxye3215)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaxye3215)](https://github.com/yaxye3215/github-readme-stats)
 
 
 
