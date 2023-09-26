@@ -18,7 +18,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
  
 </div>
-### :fire: My Stats:
+ :fire: My Stats:
 
 
 ![yaxye3215's Stats](https://github-readme-stats.vercel.app/api?username=yaxye3215&theme=default&show_icons=true&hide_border=true&count_private=true)
