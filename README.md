@@ -23,7 +23,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ![yaxye3215's Stats](https://github-readme-stats.vercel.app/api?username=yaxye3215&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-Most Used Languages:
+<h1>Most Used Languages:</h1>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaxye3215&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
