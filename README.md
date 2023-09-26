@@ -3,8 +3,8 @@
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-### :hammer_and_wrench: Languages and Tools :
+<h1>:hammer_and_wrench: Languages and Tools :</h1>
+ 
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
