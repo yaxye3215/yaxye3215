@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is yahye
-#### I am web / app developer
+#### I am web / app developer.
 ![I am web / app developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yaxye3215username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
