@@ -15,7 +15,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-
+![yaxye3215's Stats](https://github-readme-stats.vercel.app/api?username=yaxye3215&theme=default&show_icons=true&hide_border=true&count_private=true)
  
 </div>
 ### :fire: My Stats
