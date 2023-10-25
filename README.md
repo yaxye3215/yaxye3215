@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm web/app developer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0969DA&random=false&width=435&lines=I'm+web%2Fapp+developer;and+UI%2FX+designer" alt="Typing SVG" /></a>
 
 
 ## 🌐 Socials:
